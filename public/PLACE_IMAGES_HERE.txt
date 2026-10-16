@@ -1,0 +1,7 @@
+# Place your 6 PNG image files in this public folder:
+# - AvoraLogo.png
+# - BreathingFaceIcon.png
+# - JournalPenIcon.png
+# - PomodoroClockIcon.png
+# - RelaxingSoundIcon.png
+# - TaskCalendarIcon.png

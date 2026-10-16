@@ -1,0 +1,6 @@
+{
+  "name": "Avora",
+  "description": "Avora: Focus your time. Find your balance. A minimalist mindfulness and productivity sanctuary featuring Pomodoro timers, Eisenhower Matrix task management, reflective journaling, ambient soundscapes, and guided breathing exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
