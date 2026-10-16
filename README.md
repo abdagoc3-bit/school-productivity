@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Avora — Focus your time. Find your balance.
 
 A minimalist mindfulness and productivity sanctuary featuring Pomodoro timers, Eisenhower Matrix task management, reflective journaling, ambient soundscapes, and guided breathing exercises.
@@ -57,3 +58,6 @@ Open your browser to `http://localhost:3000` to view Avora!
 - **5th Grid — Guided Breathwork:** Visual pulsing circle with Box breathing (4-4-4-4), 4-7-8 relaxation, and Coherent 5-5 rhythms.
 - **6th Grid — Patterns & Analytics:** Cognitive energy distribution across quadrants, sprint hours, and mood sentiment frequency.
 - **6-Digit PIN Authentication:** Built-in demo account (`demo` / `123456`) and multi-account local persistence.
+=======
+# school-productivity
+>>>>>>> 0ec90d7dd4420ecc9fbf3aef0117d8a11ca637f9
